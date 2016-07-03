@@ -14,9 +14,7 @@ This repository contains code snippets from a variety of different languages and
   -Scripting language vulnerabilties
   
   More than the above is yet to be added to the repository, but for now, I hope you enjoy what we have to offer!
-  
   If you have any questions, feel free to email me at my personal address - awile@thepentesters.net
-  
   Thanks for stopping by and I hope you find something that may benefit you!
   
   Sincerely,
