@@ -6,8 +6,11 @@ Being able to successfully exploit vulnerable software is an indispensable skill
 This repository contains code snippets from a variety of different languages and vulnerability classifications.
 
   -Cryptogrpahy based vulnerabilities
+  
   -Web applications vulnerabilities
+  
   -Compiled language vulnerabilities
+  
   -Scripting language vulnerabilties
   
   More than the above is yet to be added to the repository, but for now, I hope you enjoy what we have to offer!
